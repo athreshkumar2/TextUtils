@@ -1,6 +1,16 @@
+# TextUtils
+It is the website which convert Uppercase letters to Lowercase and vice-versa. It calculates actual reading time of an article.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Hosted page/Site
+[Click Here to Visit...](https://athreshkumar2.github.io/TextUtils/)
+
+## Preview
+<img width="947" alt="homepage" src="https://user-images.githubusercontent.com/82868326/144099919-31cd3518-2c21-4e42-8a30-465aca8a9ae3.png">
+
 
 ## Available Scripts
 
